@@ -1,0 +1,9 @@
+Building HackerCoin
+
+See doc/readme-qt.rst for instructions on building HackerCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HackerCoin.
+
+See doc/build-*.txt for instructions on building HackerCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of HackerCoin.
