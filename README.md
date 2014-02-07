@@ -1,3 +1,3 @@
 HackerCoin (HAK)
 
-Blah, blah, blah.
+To be released at the BoilerMake hackathon
